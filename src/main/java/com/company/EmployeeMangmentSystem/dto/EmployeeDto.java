@@ -6,7 +6,6 @@ import lombok.Getter;
 import java.time.LocalDateTime;
 
 @Data
-@Getter
 public class EmployeeDto {
     private String employeeFirstName;
     private String employeeLastName;

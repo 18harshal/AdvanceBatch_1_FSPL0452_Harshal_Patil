@@ -10,8 +10,6 @@ import java.time.LocalDateTime;
 @Data
 @Entity
 @Table(name = "EmployeeInfo")
-@Getter
-@Setter
 public class EmployeeEntity {
 
 
